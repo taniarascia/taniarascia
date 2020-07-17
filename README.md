@@ -22,6 +22,6 @@ My [website philosophy](https://www.taniarascia.com/philosophy/) is to have no a
 
 ### What else?
 
-I like strategy games, bike rides, accordions, the '80s, coffee, The Expanse book series, listening to and playing music, writing about what I learn, and coding.
+I like strategy games, bike rides, accordions, the '80s, coffee, The Expanse book series, listening to and playing music, road trips, beer, and coding.
 
 I'd love to branch out and create more useful content (books, podcasts). If you have any suggestions or comments, feel free to email me at **hello** @ **taniarascia.com**.
