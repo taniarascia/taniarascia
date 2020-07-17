@@ -1,6 +1,6 @@
-## Tania Rascia 💾
+### Hi, I'm Tania—a software engineer, open source creator, technical writer, and former chef. 
 
-Hi, I'm Tania—a software engineer, open source creator, technical writer, and former chef. I'm always writing and documenting what I learn at [taniarascia.com](https://www.taniarascia.com/) (or [tania.dev](https://tania.dev) for short). I keep all my open source projects and tutorial demos here.
+I'm always writing and documenting what I learn at [taniarascia.com](https://www.taniarascia.com/) (or [tania.dev](https://tania.dev) for short). I keep all my open source projects and tutorial demos here.
 
 ### Favorites
 
