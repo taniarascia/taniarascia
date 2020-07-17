@@ -1,10 +1,8 @@
-### Hi, I'm Tania—a software engineer, open source creator, technical writer, and former chef. 
+### Hi, I'm Tania 👋. I'm a software engineer, open source creator, technical writer, and former chef. 
 
-I'm always writing and documenting what I learn at [taniarascia.com](https://www.taniarascia.com/) (or [tania.dev](https://tania.dev) for short). I keep all my open source projects and tutorial demos here.
+I'm always writing and documenting what I learn at [taniarascia.com](https://www.taniarascia.com/) (or [tania.dev](https://tania.dev) for short). 
 
-### Favorites
-
-Here are a few my most popular tutorials. You can [view them all here](https://www.taniarascia.com/guides).
+### Popular tutorials ([view all](https://www.taniarascia.com/guides))
 
 - [**React**](https://www.taniarascia.com/getting-started-with-react/)
 - [**Vue**](https://www.taniarascia.com/getting-started-with-vue/)
@@ -21,4 +19,4 @@ My [website philosophy](https://www.taniarascia.com/philosophy/) is to have no a
 
 I like strategy games, bike rides, accordions, the '80s, coffee, The Expanse book series, listening to and playing music, writing about what I learn, and coding.
 
-I'd love to branch out and create more stuff (books, podcasts), and improve my content. If you have any suggestions, feel free to email me at **hello** @ **taniarascia.com**.
+I'd love to branch out and create more useful content (books, podcasts). If you have any suggestions or comments, feel free to email me at **hello** @ **taniarascia.com**.
