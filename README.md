@@ -4,14 +4,14 @@ Hi, I'm Tania—a software engineer, open source creator, technical writer, and 
 
 ### Favorites
 
-I create concise walkthroughs for beginners and intermediate developers. Here are a few of the most popular ones:
+Here are a few my most popular tutorials. You can [view them all here](https://www.taniarascia.com/guides).
 
-- [How to Use React](https://www.taniarascia.com/getting-started-with-react/)
-- [How to Use Vue](https://www.taniarascia.com/getting-started-with-vue/)
-- [How to Use Redux](https://www.taniarascia.com/redux-react-guide/)
-- [How to Use Bash](https://www.taniarascia.com/how-to-create-and-use-bash-scripts/)
-- [How to Use the Command Line](https://www.taniarascia.com/how-to-use-the-command-line-for-apple-macos-and-linux)
-- [CSS Fundamentals and Concepts](https://www.taniarascia.com/overview-of-css-concepts/)
+- [**React**](https://www.taniarascia.com/getting-started-with-react/)
+- [**Vue**](https://www.taniarascia.com/getting-started-with-vue/)
+- [**Redux**](https://www.taniarascia.com/redux-react-guide/)
+- [**Bash**](https://www.taniarascia.com/how-to-create-and-use-bash-scripts/]
+- [**Command Line**](https://www.taniarascia.com/how-to-use-the-command-line-for-apple-macos-and-linux)
+- [**CSS**](https://www.taniarascia.com/overview-of-css-concepts/)
 
 ### Philosophy
 
@@ -20,3 +20,5 @@ My [website philosophy](https://www.taniarascia.com/philosophy/) is to have no a
 ### What else?
 
 I like strategy games, bike rides, accordions, the '80s, coffee, The Expanse book series, listening to and playing music, writing about what I learn, and coding.
+
+I'd love to branch out and create more stuff (books, podcasts), and improve my content. If you have any suggestions, feel free to email me at **hello** @ **taniarascia.com**.
