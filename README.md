@@ -9,7 +9,7 @@ Here are a few my most popular tutorials. You can [view them all here](https://w
 - [**React**](https://www.taniarascia.com/getting-started-with-react/)
 - [**Vue**](https://www.taniarascia.com/getting-started-with-vue/)
 - [**Redux**](https://www.taniarascia.com/redux-react-guide/)
-- [**Bash**](https://www.taniarascia.com/how-to-create-and-use-bash-scripts/]
+- [**Bash**](https://www.taniarascia.com/how-to-create-and-use-bash-scripts/)
 - [**Command Line**](https://www.taniarascia.com/how-to-use-the-command-line-for-apple-macos-and-linux)
 - [**CSS**](https://www.taniarascia.com/overview-of-css-concepts/)
 
