@@ -16,10 +16,6 @@ I'm always writing and documenting what I learn at [taniarascia.com](https://www
 - [**Command Line**](https://www.taniarascia.com/how-to-use-the-command-line-for-apple-macos-and-linux)
 - [**CSS**](https://www.taniarascia.com/overview-of-css-concepts/)
 
-### Philosophy
-
-My [website philosophy](https://www.taniarascia.com/philosophy/) is to have no ads, no social media, no tracking or analytics, no sponsored posts or affiliates, and no paywall. I want to reduce the noise and desperation on the internet and provide something of value for free.
-
 ### What else?
 
 I like strategy games, bike rides, accordions, the '80s, coffee, The Expanse book series, listening to and playing music, road trips, beer, and coding.
