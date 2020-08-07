@@ -16,8 +16,3 @@ I'm always writing and documenting what I learn at [taniarascia.com](https://www
 - [**Command Line**](https://www.taniarascia.com/how-to-use-the-command-line-for-apple-macos-and-linux)
 - [**CSS**](https://www.taniarascia.com/overview-of-css-concepts/)
 
-### What else?
-
-I like strategy games, bike rides, accordions, the '80s, coffee, The Expanse book series, listening to and playing music, road trips, beer, and coding.
-
-I'd love to branch out and create more useful content (books, podcasts). If you have any suggestions or comments, feel free to email me at **hello** @ **taniarascia.com**.
